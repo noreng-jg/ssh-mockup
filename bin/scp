@@ -1,0 +1,2 @@
+#!/bin/bash
+scp -oHostKeyAlgorithms=+ssh-rsa -P 2224 /etc/passwd root@localhost:/home

@@ -1,0 +1,2 @@
+#!/bin/bash
+ssh -oHostKeyAlgorithms=+ssh-rsa -p 2224 root@localhost

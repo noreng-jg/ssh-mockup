@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ssh-keygen -t ssh-rsa -f $(pwd)/server/.rsa
